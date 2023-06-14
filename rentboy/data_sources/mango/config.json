@@ -1,0 +1,9 @@
+{
+    "name": "mango",
+    "type": "mongodb",
+    "config": {},
+    "secret_config": {
+        "uri": "__mango_uri"
+    },
+    "version": 1
+}
